@@ -1,2 +1,2 @@
 # MyFirstAlgorithm
-This is my first algorithm as a Developer
+This is my first algorithm as a developer
